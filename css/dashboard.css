@@ -1,0 +1,42 @@
+body {
+	background-color: #232323;
+
+}
+h1 {
+	color: white;
+}
+.square {
+	width:30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+.selected {
+	background: grey;
+}
+.topbar{
+	background: #A0A0A0;
+	text-align: center;
+	
+
+}
+button{
+	background: none;
+	border: none;
+	height: 100%;
+	color: white;
+	font-weight: bold;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+#container {
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+#c0l0r{
+	font-size: 150%;
+}
